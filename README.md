@@ -194,6 +194,9 @@ Choose mode:
 - Shows face count + frame number on screen
 - Saves output image automatically (image mode)
 
+### 📸 Output Screenshot
+![Task 2] <img width="1920" height="1017" alt="Image" src="https://github.com/user-attachments/assets/fe713545-8c27-4428-85ad-fc3a228c1438" />[](url)
+
 ---
 
 ## 💬 Task 3 — Sentiment Analysis
