@@ -1,9 +1,11 @@
- # AI Internship Tasks — Kodbud
+<div align="center">
+
+# 🤖 AI Internship Tasks — Kodbud
 ### *4 Hands-on Artificial Intelligence Projects built with Python*
 
 <br/>
 
-![Python](<img width="1829" height="1010" alt="Image" src="https://github.com/user-attachments/assets/8055e9e8-c1b7-49e5-bcde-9c0eb9cb9c29" />[](url))
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
