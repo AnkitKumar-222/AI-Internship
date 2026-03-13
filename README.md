@@ -234,6 +234,9 @@ python task3_sentiment_analysis.py
 
 ### 🎯 Accuracy: **~83%**
 
+### 📸 Output Screenshot
+![Task 3]<img width="1920" height="1015" alt="Image" src="https://github.com/user-attachments/assets/6de612cc-c9d2-4f41-867d-da9a67b1bdd9" />[](url)
+
 ---
 
 ## 🔢 Task 4 — Handwritten Digit Recognizer
