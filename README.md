@@ -287,6 +287,9 @@ EarlyStopping triggered — restoring best weights...
 
 ### 🎯 Accuracy: **98.62%**
 
+### 📸 Output Screenshot
+![Task 4]<img width="1920" height="924" alt="Image" src="https://github.com/user-attachments/assets/d53a6744-9075-489f-84ca-06e153e86d7d" />[](url)
+
 ---
 
 ## 📈 Results Summary
