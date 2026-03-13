@@ -151,7 +151,6 @@ python task1_spam_classifier.py
 
 ### 📸 Output Screenshot
 ![Task 1] <img width="1920" height="1017" alt="Image" src="https://github.com/user-attachments/assets/fe713545-8c27-4428-85ad-fc3a228c1438" />[](url)
-<img width="1829" height="1010" alt="Image" src="https://github.com/user-attachments/assets/93834665-cb70-4bb1-b89c-d4528c10c099" />[](url)
 
 ---
 
@@ -196,7 +195,7 @@ Choose mode:
 - Saves output image automatically (image mode)
 
 ### 📸 Output Screenshot
-![Task 2] <img width="1920" height="1017" alt="Image" src="https://github.com/user-attachments/assets/fe713545-8c27-4428-85ad-fc3a228c1438" />[](url)
+![Task 2] <img width="1829" height="1010" alt="Image" src="https://github.com/user-attachments/assets/93834665-cb70-4bb1-b89c-d4528c10c099" />[](url)
 
 ---
 
